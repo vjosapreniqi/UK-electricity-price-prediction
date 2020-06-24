@@ -1,0 +1,8 @@
+Python==3.7.6
+matplotlib==3.1.2
+seaborn==0.10.0
+statsmodels==0.11.0
+pmdarima==1.6.1
+sklearn==0.23.1
+fbprophet==0.6
+xgboost==1.1.1
