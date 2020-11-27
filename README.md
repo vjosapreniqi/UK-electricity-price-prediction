@@ -4,7 +4,7 @@ This repository represents the UK electricity price prediction utilising 3 Machi
 1. ARIMA Models
 2. Prophet Model
 3. XGBoost Model.
-The Data is extracted from the ELEXON open source API:https://www.elexon.co.uk/wp-content/uploads/2017/06/bmrs_api_data_push_user_guide_v1.1.pdf
+The Data is extracted from the ELEXON open source API:https://www.elexon.co.uk/guidance-note/bmrs-api-data-push-user-guide/
 The period captured in this repository for the electricity prices is 01/01/2017 - 01/07/2019.
 
 # Technical info:
